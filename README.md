@@ -3,6 +3,16 @@ CH340G bitbanging
 
 I just wanted to set a pin low or high on a USB-serial adaptor.
 
+Picture
+=======
+
+![WinChipHead CH340G usb-serial adaptor](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ch340g-usb-serial.jpg)
+
+Price
+=====
+
+You can get those adaptors by a pack of 10 for 10EUR via Aliexpress.com.
+
 Usage
 =====
 
