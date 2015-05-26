@@ -3,6 +3,11 @@ CH340G bitbanging
 
 I just wanted to set a pin low or high on a USB-serial adaptor.
 
+This could be used to:
+
+* blink a LED
+* power on/off a relay
+
 Picture
 =======
 
