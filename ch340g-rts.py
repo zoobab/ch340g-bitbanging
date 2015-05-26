@@ -7,10 +7,14 @@ import time
 import serial
 
 ser = serial.Serial("/dev/ttyUSB0")
-while True==True:
-    print "Setting RTS to True"
+
+count = 0
+while (count < 100000):
+#   print 'The count is:', count
+    count = count + 1
+#    print "Setting RTS to True"
     ser.setRTS(True)
-    time.sleep(3.0)
-    print "Setting RTS to False"
+#    time.sleep(3.0)
+#    print "Setting RTS to False"
     ser.setRTS(False)
-    time.sleep(3.0)
+#    time.sleep(3.0)
