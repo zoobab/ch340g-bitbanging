@@ -23,6 +23,13 @@ The usable pins are:
 * RTS = pin14
 * DTR = pin13
 
+We note that the Avrdude flasher mentioned below uses the following four pins:
+
+* RTS (RESET)
+* DTR (SCK)
+* TXD (MOSI)
+* CTS (MISO)
+
 ![WinChipHead CH340G pinout](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ch340g-pinout.jpg)
 
 Price
