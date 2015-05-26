@@ -58,3 +58,4 @@ Links
 * Datasheet and basic circuit: http://fobit.blogspot.be/2014/11/ch340g-in-eagle.html
 * RaspberryPi gpio bitbanging speed: http://codeandlife.com/2012/07/03/benchmarking-raspberry-pi-gpio-speed/
 * Avrdude ch340g avr flasher: http://arduino.densikit.com/jikken-shitsu/ch340g
+* USBIO with a PIC18f14k50: http://jap.hu/electronic/usbio.html
