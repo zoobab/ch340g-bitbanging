@@ -35,7 +35,7 @@ We note that the Avrdude flasher mentioned below uses the following four pins:
 Price
 =====
 
-You can get those adaptors by a pack of 10 for 10EUR via Aliexpress.com.
+You can get those adaptors by a pack of 10 for 10EUR via Aliexpress.com. Standalone you can find them at 0.88EUR, or just the chip in SOP16 format at around 0.44EUR.
 
 Usage
 =====
