@@ -8,6 +8,13 @@ Picture
 
 ![WinChipHead CH340G usb-serial adaptor](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ch340g-usb-serial.jpg)
 
+Pinout
+======
+
+The RTS pin14, the pin1 is marked with the little round on the top head corner.
+
+![WinChipHead CH340G pinout](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ch340g-pinout.jpg)
+
 Price
 =====
 
