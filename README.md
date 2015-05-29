@@ -66,6 +66,13 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Which makes a speed of about 2.8KHz, which is very similar to the RaspberryPi sysfs shell speed.
 
+Other dongles
+=============
+
+I also have a CP2102 dongle, and the nice feature with this one is that the DTR pin is available on the header:
+
+![WinChipHead CH340G usb-serial adaptor]()
+
 Links
 =====
 
