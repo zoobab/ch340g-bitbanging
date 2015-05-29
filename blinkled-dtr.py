@@ -10,7 +10,7 @@ while (count < 100000):
     count = count + 1
 #    print '''Setting RTS to True'''
     ser.setRTS(True)
-    time.sleep(0.2)
+    time.sleep(5.2)
 #    print '''Setting RTS to False'''
     ser.setRTS(False)
-    time.sleep(0.2)
+    time.sleep(5.2)
