@@ -71,7 +71,9 @@ Other dongles
 
 I also have a CP2102 dongle, and the nice feature with this one is that the DTR pin is available on the header:
 
-![WinChipHead CH340G usb-serial adaptor]()
+![Silabs CP2102 usb-serial adaptor breakout](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/cp2102-usb-serial.jpg)
+
+The DTR voltage is different from the CH340G, as it has precise 3.3V or 0V values.
 
 Links
 =====
