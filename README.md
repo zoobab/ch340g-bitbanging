@@ -66,7 +66,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Which makes a speed of about 2.8KHz, which is very similar to the RaspberryPi sysfs shell speed.
 
-Other dongles
+CP2102 dongle
 =============
 
 I also have a CP2102 dongle, and the nice feature with this one is that the DTR pin is available on the header:
@@ -78,6 +78,14 @@ The DTR voltage is different from the CH340G, as it has precise 3.3V or 0V value
 I tried the same on the RTS pin (you need to solder a pin on the nicely exposed hole), and it also has 0V or 3.3V.
 
 ![Silabs CP2102 blinking a LED with the DTR pin](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/cp2102-blinkled.jpg)
+
+FTDI UMFT230XB dongle
+=====================
+
+This dongle has a nice 10 pins female header:
+
+![FTDI UMFT230XB dongle](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ftdi-umft230xb.jpg)
+![FTDI UMFT230XB blinking a LED with the RTS pin](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ftdi-umft230xb-blinkled.jpg)
 
 Links
 =====
