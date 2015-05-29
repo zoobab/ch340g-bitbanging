@@ -77,6 +77,8 @@ The DTR voltage is different from the CH340G, as it has precise 3.3V or 0V value
 
 I tried the same on the RTS pin (you need to solder a pin on the nicely exposed hole), and it also has 0V or 3.3V.
 
+![Silabs CP2102 blinking a LED with the DTR pin](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/cp2102-blinkled.jpg)
+
 Links
 =====
 
