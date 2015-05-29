@@ -88,6 +88,11 @@ This dongle has a nice 10 pins female header:
 ![FTDI UMFT230XB dongle](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ftdi-umft230xb.jpg)
 ![FTDI UMFT230XB blinking a LED with the RTS pin](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ftdi-umft230xb-blinkled.jpg)
 
+TODO
+====
+
+* Rewrite the whole thing in C with libusb in order to remove python dependencies.
+
 Links
 =====
 
@@ -95,3 +100,5 @@ Links
 * RaspberryPi gpio bitbanging speed: http://codeandlife.com/2012/07/03/benchmarking-raspberry-pi-gpio-speed/
 * Avrdude ch340g avr flasher: http://arduino.densikit.com/jikken-shitsu/ch340g
 * USBIO with a PIC18f14k50: http://jap.hu/electronic/usbio.html
+* Using the DTR & RTS signal lines as outputs from Liberty BASIC http://www.diga.me.uk/dtrts.html
+* PySerial DTR and RTS Manipulation http://projectproto.blogspot.be/2009/11/pyserial-dtr-and-rts-manipulation.html
