@@ -1,11 +1,4 @@
 #!/usr/bin/python
-
-# RTS to True  == 0V
-# RTS to False == 3.7V
-
-# DTR to True on CH340G  == 0V
-# DTR to False on CH340G == 3.7V
-
 import time
 import serial
 
