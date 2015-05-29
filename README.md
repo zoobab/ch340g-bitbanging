@@ -75,6 +75,8 @@ I also have a CP2102 dongle, and the nice feature with this one is that the DTR 
 
 The DTR voltage is different from the CH340G, as it has precise 3.3V or 0V values.
 
+I tried the same on the RTS pin (you need to solder a pin on the nicely exposed hole), and it also has 0V or 3.3V.
+
 Links
 =====
 
