@@ -7,6 +7,7 @@ This could be used to:
 
 * blink a LED
 * power on/off a relay
+* bitbanging a protocol over several pins (avrdude)
 
 Picture
 =======
