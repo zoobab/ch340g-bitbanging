@@ -8,9 +8,9 @@ count = 0
 while (count < 100000):
 #    print 'The count is:', count
     count = count + 1
-#    print '''Setting RTS to True'''
-    ser.setRTS(True)
-    time.sleep(5.2)
-#    print '''Setting RTS to False'''
-    ser.setRTS(False)
-    time.sleep(5.2)
+    print '''Setting DTR to ON'''
+    ser.setDTR(True)
+    time.sleep(1)
+    print '''Setting DTR to OFF'''
+    ser.setDTR(False)
+    time.sleep(1)
